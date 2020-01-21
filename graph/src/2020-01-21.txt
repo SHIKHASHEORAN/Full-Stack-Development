@@ -1,0 +1,5 @@
+{"type": "SyntheticValue", "data": {"PNL": 3336.2, "timestamp": "2019-12-19T15:17:00"}}
+{"type": "SyntheticRatio", "data": {"PNL": 3300, "timestamp": "2019-12-19T15:17:00"}}
+{"type": "SyntheticRatio", "data": {"PNL": 3300, "timestamp": "2019-12-19T15:17:00"}}
+{"type": "SyntheticValue", "data": {"PNL": 3300, "timestamp": "2019-12-19T15:17:00"}}
+{"type": "SyntheticRatio", "data": {"PNL": 3300, "timestamp": "2019-12-19T15:17:00"}}
